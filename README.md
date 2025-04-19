@@ -6,7 +6,7 @@
   <a href="https://twitter.com/luca_boffa99"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=luke31999&label=Profile%20views&color=0e75b6&style=flat" alt="luke31999" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=secLuk3&label=Profile%20views&color=0e75b6&style=flat" alt="secLuk3" /> </p>
 
 ---
 
@@ -44,7 +44,7 @@ I’m looking for opportunities in **Offensive Security**, where I can contribut
 | Skill                                             | Associated Project / Lab                                       |
 |--------------------------------------------------|----------------------------------------------------------------|
 | Internal/External Network Pen Testing            | [Hack The Box](https://www.hackthebox.com) Labs                |
-| Red Team Tooling & Custom Scripting              | [Custom GitHub Projects](https://github.com/luke31999)         |
+| Red Team Tooling & Custom Scripting              | [Custom GitHub Projects](https://github.com/secLuk3)         |
 | Full Penetration Report                          | [HTB Bizness Report 📄](https://github.com/secLuk3/Penetration-Testing-Project-Unisa-23-24) |
 
 ---
