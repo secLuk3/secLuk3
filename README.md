@@ -91,14 +91,14 @@ I’m looking for opportunities in **Offensive Security**, where I can contribut
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=luke31999" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=secLuk3" alt="Trophies" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luke31999&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=secLuk3&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luke31999&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=secLuk3&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luke31999&" alt="Streak Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=secLuk3&" alt="Streak Stats" /></p>
 
 ---
