@@ -61,4 +61,5 @@ I'm seeking a role in **Offensive Security** where I can apply my skills in ethi
 ---
 
 ## 🧪 Projects
-- **Hack The Box Labs** – Active participant solving offensive security challenges  
+- **Hack The Box Labs** – Active participant solving offensive security challenges
+- **HTB Bizness** - [📄PenTest report](https://github.com/secLuk3/Penetration-Testing-Project-Unisa-23-24)
